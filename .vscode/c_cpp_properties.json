@@ -20,7 +20,8 @@
                     "/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include",
                     "/Library/Developer/CommandLineTools/usr/include",
                     "/usr/include",
-                    "${workspaceRoot}"
+                    "${workspaceRoot}",
+                    "/usr/local/Cellar/llvm/5.0.1/include"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
